@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/africapresidentListe/static/css/main.44c83c9e.chunk.css",
+    "main.js": "/africapresidentListe/static/js/main.555af1c5.chunk.js",
+    "main.js.map": "/africapresidentListe/static/js/main.555af1c5.chunk.js.map",
+    "runtime-main.js": "/africapresidentListe/static/js/runtime-main.1a20df1f.js",
+    "runtime-main.js.map": "/africapresidentListe/static/js/runtime-main.1a20df1f.js.map",
+    "static/js/2.530985af.chunk.js": "/africapresidentListe/static/js/2.530985af.chunk.js",
+    "static/js/2.530985af.chunk.js.map": "/africapresidentListe/static/js/2.530985af.chunk.js.map",
+    "index.html": "/africapresidentListe/index.html",
+    "static/css/main.44c83c9e.chunk.css.map": "/africapresidentListe/static/css/main.44c83c9e.chunk.css.map",
+    "static/js/2.530985af.chunk.js.LICENSE.txt": "/africapresidentListe/static/js/2.530985af.chunk.js.LICENSE.txt",
+    "static/media/ali.f250aa3b.png": "/africapresidentListe/static/media/ali.f250aa3b.png",
+    "static/media/faureg.f1094882.png": "/africapresidentListe/static/media/faureg.f1094882.png",
+    "static/media/macky.5375ec77.png": "/africapresidentListe/static/media/macky.5375ec77.png",
+    "static/media/mahamadou.9f036117.png": "/africapresidentListe/static/media/mahamadou.9f036117.png",
+    "static/media/marc.f078039f.png": "/africapresidentListe/static/media/marc.f078039f.png",
+    "static/media/monstera.6257bc6b.jpg": "/africapresidentListe/static/media/monstera.6257bc6b.jpg",
+    "static/media/nana.ac4eb17a.png": "/africapresidentListe/static/media/nana.ac4eb17a.png",
+    "static/media/ouattara.a3bea5a1.png": "/africapresidentListe/static/media/ouattara.a3bea5a1.png",
+    "static/media/paul.1b5b26b4.png": "/africapresidentListe/static/media/paul.1b5b26b4.png",
+    "static/media/sun.26fb5ace.svg": "/africapresidentListe/static/media/sun.26fb5ace.svg",
+    "static/media/talon.38502bb8.png": "/africapresidentListe/static/media/talon.38502bb8.png",
+    "static/media/water.cceb486f.svg": "/africapresidentListe/static/media/water.cceb486f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a20df1f.js",
+    "static/js/2.530985af.chunk.js",
+    "static/css/main.44c83c9e.chunk.css",
+    "static/js/main.555af1c5.chunk.js"
+  ]
+}
